@@ -15,11 +15,11 @@ You can keep your software as simple as possible.
 
 1.  Conceiving The Purpose of Software
 
-The idea here is that there should be a clear goal for your programs and not just show your programming abilities
+>The idea here is that there should be a clear goal for your programs and not just show your programming abilities
 
 2. The Goals of Software Design
 
-The goal of the software design is to make the developers' work as easy as possible so that they can focus on the important things.
+> The goal of the software design is to make the developers' work as easy as possible so that they can focus on the important things.
 
 3. (Mis)understanding
 
@@ -33,7 +33,7 @@ The goal of the software design is to make the developers' work as easy as possi
 
 8. Code measurement
 
-The programmer must measure the quality of their code to keep their code in development and improvement.
+>The programmer must measure the quality of their code to keep their code in development and improvement.
 
 9. Testing
 
