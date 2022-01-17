@@ -11,7 +11,7 @@ Even when you start implementing them, they may seem fine. But as time goes onâ€
 To avoid being one of the victims. You should develop a mindset that every developer should have.
 You can keep your software as simple as possible.
 
-**Here are the key points that every developer must master.**
+**Here are the key points that every developer must master:**
 
 1.  Conceiving The Purpose of Software
 
