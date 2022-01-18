@@ -1,7 +1,9 @@
 # Review Markdown
 
 * hello world
-* leen is here
+* markdown is scripting language
+* used for doc
+* another way to list
 
 [go home](./../README.md)
 
